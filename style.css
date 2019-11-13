@@ -6,3 +6,7 @@ font-family: comic-sans;
 font-size: 72px;
 text-align: center;
 }
+.main img {
+    max-width: 100%;
+    height: auto;
+      }
