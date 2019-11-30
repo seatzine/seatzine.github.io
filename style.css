@@ -8,3 +8,6 @@ text-align: center;
     max-width: 100%;
     height: auto;
       }
+table, th, td {
+  border: 6px double black;
+}
