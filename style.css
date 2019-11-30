@@ -10,5 +10,5 @@ text-align: center;
       }
 table, th, td {
   border: 6px double black;
-    align: center;
+    float: center;
 }
