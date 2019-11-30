@@ -13,3 +13,8 @@ table, th, td {
     float: center;
 }
 
+.credits {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-style: italic;
+}
+
